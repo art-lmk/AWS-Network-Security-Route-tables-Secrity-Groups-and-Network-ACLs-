@@ -4,8 +4,6 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-security)
 
-**Author:** Lenah Mbatha  
-**Email:** lenahmbatha5@gmail.com
 
 ---
 
@@ -17,13 +15,7 @@
 
 ## Introducing Today's Project!
 
-### What is Amazon VPC?
 
-### How I used Amazon VPC in this project
-
-### One thing I didn't expect in this project was...
-
-### This project took me...
 
 ---
 
