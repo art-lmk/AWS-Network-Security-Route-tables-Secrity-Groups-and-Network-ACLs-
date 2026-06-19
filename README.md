@@ -54,7 +54,7 @@ Outbound rules are the rules that govern the data that your resourcescan send ou
 
 ## Network ACLs
 
-Network ACLs are security checkpoints that makes sure only authorized data comes in and out of a subnet
+Network ACLs are security checkpoints that makes sure only authorized data comes in and out of a subnet. NetworkACLs can be private or public based on the nature of the resources you want your users to access.
 
 ### Security groups vs. network ACLs
 
@@ -71,11 +71,3 @@ By default, a network ACL's inbound and outbound rules will allow data to come i
 In contrast, a custom ACL’s inbound and outbound rules are automatically set to deny untill you set the rules to show which data packet traffic is allowed
 
 ![Image](http://learn.nextwork.org/lively_rose_silly_raspberry/uploads/aws-networks-security_4faeb056)
-
----
-
-## Tracking VPC Resources
-
----
-
----
