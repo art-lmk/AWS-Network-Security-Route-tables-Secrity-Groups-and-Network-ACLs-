@@ -5,13 +5,10 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-security)
 
 
----
-
 ## VPC Traffic Flow and Security
 
 ![Image](http://learn.nextwork.org/lively_rose_silly_raspberry/uploads/aws-networks-security_92b0b0b4)
 
----
 
 ## Introducing Today's Project!
 
